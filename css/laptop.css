@@ -1,3 +1,12 @@
+.myskills h2{
+    color: #6665ee;
+    text-align: center;
+}
+.skills-center{
+    display: flex;
+    justify-content: center;
+}
+    
 .skills-bar{
     background: rgb(235, 223, 223);
     width: 50vw;
@@ -18,7 +27,7 @@ margin: 20px;
 }
 .skills-bar .bar .percenntgeline{
     position: relative;
-    height: 10px;
+    height: 20px;
     background: #f0f0f0;
 }
 .bar .percenntgeline span{
@@ -28,7 +37,23 @@ background: #6665ee;
 position: absolute;
 border-radius: 10px;
 }
+.bar .percenntgeline.Photoshop span{
+    background: green;
+    width: 95%;
+}
+.bar .percenntgeline.Illustator span{
+    background: rgb(2, 168, 2);
+    width: 90%;
+}
 .bar .percenntgeline.html span{
-    background: yellow;
-    width: 20%;
+    background: rgb(72, 255, 0);
+    width: 86%;
+}
+.bar .percenntgeline.css span{
+    background: greenyellow;
+    width: 80%;
+}
+.bar .percenntgeline.Javascript span{
+    background: rgb(187, 255, 0);
+    width: 72%;
 }
