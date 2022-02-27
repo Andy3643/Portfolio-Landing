@@ -1,14 +1,22 @@
 @media only screen and (max-width:390px){
 .introphone{
-    background: red;
+    background:#4a2737;
+    /*background: linear-gradient(-48deg, rgb(58, 245, 1) 50%, white 50%);*/
 
 }
 .profilephone h1{
     text-align: center;
+    color: white;
   
 }
 .profilephone p{
     text-align: center;
+    color: white;
+}
+.profilephone button{
+    width: 100vw;
+    height: 5vh;
+    background: #1ec964;
 }
 .displaypic{
     display: flex;
