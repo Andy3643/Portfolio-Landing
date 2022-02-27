@@ -2,6 +2,49 @@
 .introphone{
     display: none;
 }
+.navlaptop{
+    display: flex;
+    justify-content: space-between;
+}
+.navlaptop p{
+    font-size: large;
+    font-weight: bolder;
+}
+.navlaptop ul{
+    list-style: none;
+    display: flex;
+}
+.navlaptop ul li {
+    margin: 0 50px;
+}
+.profilelaptop{
+    background: #4a2737;
+    display: flex;
+}
+.andyopote{
+  
+    padding: 100px 0;
+}
+.profilelaptop h1{
+    text-align: center;
+    color: white;
+  
+}
+.profilelaptop p{
+    text-align: center;
+    color: white;
+}
+.profilelaptop button{
+    height: 5vh;
+    background: #1ec964;
+    position: relative;
+    left: 9em;
+}
+#displaypic{
+
+    border-radius: 5%;
+
+}
 
     
     /*place skills styling  here*/
