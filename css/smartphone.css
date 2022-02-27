@@ -67,8 +67,20 @@ border-radius: 10px;
     background: rgb(187, 255, 0);
     width: 72%;
 }
+/*stylying the projects section*/
+.projects h2{
+  text-align: center;
+}
 #pic1{
     width: 100%;
+    padding: 70px 0 20px 0;
+}
+.projects button{
+    background: green;
+    width: 100vw;
+    height: 5vh;
+    color: white;
+    font-size: large;
 }
 
 
