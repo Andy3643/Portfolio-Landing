@@ -175,7 +175,8 @@ border-radius: 10px;
   /*styling the contacts section*/
   .contacts{
       padding: 50px 0;
-      background-color: #97ccf8;
+      background-color: rgb(13,12,58);
+      color: white;
   }
   .contacts h2{
       text-align: center;
