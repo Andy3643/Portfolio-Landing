@@ -45,11 +45,16 @@
 .aboutme{
     text-align: center;
 }
+.aboutme h2{
+    color: #1ec964;
+    font-weight: bold;
+}
 
 /*place skills styling  here*/
 .myskills h2{
-    color: #6665ee;
+    color: #1ec964;
     text-align: center;
+    font-weight: bold;
 }
 .skills-center{
     display: flex;
@@ -119,11 +124,22 @@ border-radius: 10px;
     padding: 70px 0 20px 0;
 }
 .projects button{
-    background: green;
+    background: #1ec964;
     width: 100vw;
     height: 5vh;
     color: white;
     font-size: large;
+    border: none;
+}
+.projects h2{
+    color: #1ec964;
+    font-size: 30px;
+    font-weight: bold;
+}
+.projects h3{
+    color: #1ec964;
+    font-size: 30px;
+    font-weight: bold;
 }
 /*styling the contacts section*/
 .contacts{
