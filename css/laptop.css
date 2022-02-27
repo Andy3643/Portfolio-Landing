@@ -1,3 +1,4 @@
+@media only screen and (man-width:400px){
 .myskills h2{
     color: #6665ee;
     text-align: center;
@@ -56,4 +57,27 @@ border-radius: 10px;
 .bar .percenntgeline.Javascript span{
     background: rgb(187, 255, 0);
     width: 72%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 }

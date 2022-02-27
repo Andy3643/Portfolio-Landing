@@ -9,6 +9,64 @@
 }
 
 /*place skills styling  here*/
+.myskills h2{
+    color: #6665ee;
+    text-align: center;
+}
+.skills-center{
+    display: flex;
+    justify-content: center;
+}
+    
+.skills-bar{
+    background: rgb(235, 223, 223);
+    width: 100vw;
+    border-radius: 25px;
+    padding: 30px;
+}
+.bar{
+margin: 20px;
+}
+.skills-bar p{
+    color: rgb(0, 0, 0);
+
+}
+.info{
+    display: flex;
+    justify-content: space-between;
+}
+.skills-bar .bar .percenntgeline{
+    position: relative;
+    height: 8px;
+    background: #f0f0f0;
+}
+.bar .percenntgeline span{
+height: 100%;
+width: 80%;
+background: #6665ee;
+position: absolute;
+border-radius: 10px;
+}
+.bar .percenntgeline.Photoshop span{
+    background: green;
+    width: 95%;
+}
+.bar .percenntgeline.Illustator span{
+    background: rgb(2, 168, 2);
+    width: 90%;
+}
+.bar .percenntgeline.html span{
+    background: rgb(72, 255, 0);
+    width: 86%;
+}
+.bar .percenntgeline.css span{
+    background: greenyellow;
+    width: 80%;
+}
+.bar .percenntgeline.Javascript span{
+    background: rgb(187, 255, 0);
+    width: 72%;
+}
 #pic1{
     width: 100%;
 }
