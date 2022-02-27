@@ -1,8 +1,8 @@
 @media only screen and (min-width:400px){
-
-.aboutme{
-        text-align: center;
+.introphone{
+    display: none;
 }
+
     
     /*place skills styling  here*/
 .myskills h2{
