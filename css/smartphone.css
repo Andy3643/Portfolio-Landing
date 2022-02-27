@@ -1,8 +1,20 @@
 @media only screen and (max-width:390px){
+
+.introlaptop{
+    display: none;
+}  
 .introphone{
-    background:#4a2737;
+    background:rgb(13,12,58);
     /*background: linear-gradient(-48deg, rgb(58, 245, 1) 50%, white 50%);*/
 
+}
+.navphone{
+    background: white;
+}
+.navphone ul{
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
 }
 .profilephone h1{
     text-align: center;
@@ -23,6 +35,7 @@
     display: flex;
     justify-content: center;
 }
+
 #displaypic{
     height: 20vh;
     border-radius: 50%;
@@ -115,11 +128,16 @@ border-radius: 10px;
 /*styling the contacts section*/
 .contacts{
     padding: 50px 0;
-    background-color: #97ccf8;
+    background-color: rgb(13,12,58);
+    color: white;
 }
 .contacts h2{
     text-align: center;
 }
+.contactlist{
+      text-align: center;
+}
+
 
 
 

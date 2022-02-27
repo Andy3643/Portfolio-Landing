@@ -20,15 +20,20 @@
 .profilelaptop{
     background:rgb(13,12,58);
     display: flex;
+    justify-content: space-between;
 }
 .andyopote{
   
-    padding: 100px 0 0 0;
+    padding: 180px 0 0 0;
 }
 .profilelaptop h1{
     text-align: center;
     color: white;
+    font-size: 60px;
   
+}
+.profilelaptop p{
+    font-size: 20px;
 }
 .profilelaptop p{
     text-align: center;
@@ -36,10 +41,10 @@
 }
 .profilelaptop button{
     height: 10vh;
-    width: 28vw;
+    width: 20vw;
     background: #1ec964;
     position: relative;
-    left: 9em;
+    left: 10em;
     border: none;
     border-radius: 50px;
     color: white;
@@ -67,7 +72,7 @@
     
     /*place skills styling  here*/
 .myskills{
-    background: rgba(13,12,58,0.2);
+    background: rgba(13,12,58,0.7);
     padding: 50px 0;
 }
 .myskills h2{
@@ -171,9 +176,7 @@ border-radius: 10px;
     display: flex;
     justify-content: space-around;
   }
-/*.burgerpalace .description{
-    padding: 0px 0 20px 0;*/
-}
+
   .insurance{
       display: flex;
       justify-content: space-around;
