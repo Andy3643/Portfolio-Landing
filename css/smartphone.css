@@ -5,8 +5,6 @@
 }  
 .introphone{
     background:rgb(13,12,58);
-    /*background: linear-gradient(-48deg, rgb(58, 245, 1) 50%, white 50%);*/
-
 }
 .navphone{
     background: white;
@@ -29,6 +27,7 @@
     width: 100vw;
     height: 5vh;
     background: #1ec964;
+    border: none;
  
 }
 .displaypic{
