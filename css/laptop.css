@@ -1,4 +1,10 @@
-@media only screen and (man-width:400px){
+@media only screen and (min-width:400px){
+
+.aboutme{
+        text-align: center;
+}
+    
+    /*place skills styling  here*/
 .myskills h2{
     color: #6665ee;
     text-align: center;
@@ -58,7 +64,59 @@ border-radius: 10px;
     background: rgb(187, 255, 0);
     width: 72%;
 }
-
+/*stylying the projects section*/
+.projects h2{
+    text-align: center;
+    padding: 50px;
+  }
+  #pic1a{
+      width: 30%;
+      padding: 0px 0 20px 0;
+  }
+  #pic1{
+      width: 30%;
+      padding: 70px 0 20px 0;
+  }
+  .projects button{
+      background: green;
+      width: 10vw;
+      height: 5vh;
+      color: white;
+      font-size: large;
+  }
+.burgerpalace{
+    display: flex;
+    justify-content: space-around;
+  }
+/*.burgerpalace .description{
+    padding: 0px 0 20px 0;*/
+}
+  .insurance{
+      display: flex;
+      justify-content: space-around;
+      flex-direction: row-reverse;
+  }
+.insurance .description{
+    padding:70px 0 20px 0 ;
+}
+.nyangori{
+    display: flex;
+    justify-content: space-around;
+    
+}
+.nyangori .description{
+    padding:70px 0 20px 0 ;
+    
+}
+  /*styling the contacts section*/
+  .contacts{
+      padding: 50px 0;
+      background-color: #97ccf8;
+  }
+  .contacts h2{
+      text-align: center;
+  }
+  
 
 
 
