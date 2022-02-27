@@ -7,6 +7,10 @@
     height: 20vh;
     border-radius: 50%;
 }
+/*style about me section*/
+.aboutme{
+    text-align: center;
+}
 
 /*place skills styling  here*/
 .myskills h2{
@@ -70,6 +74,11 @@ border-radius: 10px;
 /*stylying the projects section*/
 .projects h2{
   text-align: center;
+  padding: 50px;
+}
+#pic1a{
+    width: 100%;
+    padding: 0px 0 20px 0;
 }
 #pic1{
     width: 100%;
@@ -81,6 +90,14 @@ border-radius: 10px;
     height: 5vh;
     color: white;
     font-size: large;
+}
+/*styling the contacts section*/
+.contacts{
+    padding: 50px 0;
+    background-color: #97ccf8;
+}
+.contacts h2{
+    text-align: center;
 }
 
 
