@@ -3,9 +3,21 @@
     background: red;
 
 }
+.profilephone h1{
+    text-align: center;
+  
+}
+.profilephone p{
+    text-align: center;
+}
+.displaypic{
+    display: flex;
+    justify-content: center;
+}
 #displaypic{
     height: 20vh;
     border-radius: 50%;
+
 }
 /*style about me section*/
 .aboutme{
