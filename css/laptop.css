@@ -56,8 +56,12 @@
     padding: 100px 0;
 }
 .aboutme h2{
-    color: #6665ee;
+    color: #1ec964;
     font-weight: bold;
+    font-size: 60px;
+}
+.aboutme p{
+    font-size: 30px;
 }
 
     
@@ -67,8 +71,10 @@
     padding: 50px 0;
 }
 .myskills h2{
-    color: #6665ee;
+    color: #1ec964;
     text-align: center;
+    font-size: 60px;
+    font-weight: bold;
 }
 .skills-center{
     display: flex;
@@ -138,8 +144,21 @@ border-radius: 10px;
       width: 30%;
       padding: 70px 0 20px 0;
   }
+  .projects h2{
+      color: #1ec964;
+      font-size: 60px;
+      font-weight: bold;
+  }
+  .projects h3{
+      color: #1ec964;
+      font-size: 40px;
+      font-weight: bold;
+  }
+  .projects p{
+      font-size: 20px;
+  }
   .projects button{
-      background: #66ade7;
+      background: #1ec964;
       border: none;
       border-radius: 50px;
       width: 10vw;
