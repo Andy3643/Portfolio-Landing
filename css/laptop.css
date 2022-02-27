@@ -35,10 +35,16 @@
     color: white;
 }
 .profilelaptop button{
-    height: 5vh;
+    height: 10vh;
+    width: 28vw;
     background: #1ec964;
     position: relative;
     left: 9em;
+    border: none;
+    border-radius: 50px;
+    color: white;
+    font-weight: bold;
+    margin: 50px 0;
 }
 #displaypic{
 
