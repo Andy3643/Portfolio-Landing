@@ -9,12 +9,12 @@
 + [Technologies Used](#Technologies_used)
 + [Licence](#Licence)
 ### Portfolio Landing Page
-![screenshot](<img src=Images/Burger_Palace.png>")
+![screenshot](./images/screenshot.png)
 
 ### Description
 This is a portfolio landing page designed for Andy Opote; a front end website developer marketing his skills.
 ### Installation
-The website can be accesed via the link:
+The website can be accesed via the link:https://andy3643.github.io/Portfolio-Landing/
 ### Requirements
 * An internet enabled device such as computer, phone or tablet
 * Active internet connection
